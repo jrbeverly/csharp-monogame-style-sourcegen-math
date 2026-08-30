@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MonoGameMath.Generator/MonoGameMath.Generator.csproj" />
+    <Project Path="src/MonoGameMath.Vectors/MonoGameMath.Vectors.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MonoGameMath.Vectors.Tests/MonoGameMath.Vectors.Tests.csproj" />
+  </Folder>
+</Solution>
